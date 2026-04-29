@@ -1,16 +1,14 @@
 # 7.CI-CD-Pipeline-to-Deploy-Node.js-Application
 
-CI/CD = Continuous Integration / Continuous Deployment
+~ CI/CD = Continuous Integration / Continuous Deployment
 
 ~ Purpose: Auto deploy app on every code change
 
 ~ AWS Services:
 
-AWS CodePipeline
-
-CodeBuild
-
-EC2 / S3
+          AWS CodePipeline
+          CodeBuild
+          EC2 / S3
 
 GitHub Repository:
 <img width="401" height="239" alt="image" src="https://github.com/user-attachments/assets/49e0f56b-26c0-4ecf-a821-8b55192c356c" />
